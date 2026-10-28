@@ -1,0 +1,7 @@
+{
+  "data/train.csv": "6bacde7ecadc6d6529ced0f009914cda4e2435eb8c0c149dcb951b363f459771",
+  "data/validation.csv": "c56a47718318ef321aec5b61e9407949deb7e215ea8b97e64a76d7a310419eea",
+  "data/test.csv": "e807b66ad879867ea8eaa412213830b2793402c8361e07eca5fc87201c6101fc",
+  "baseline/model.joblib": "9a5333481d6e5cc73c11df93dd5db427e026cbf04f7bbb84a0e127e28d406298",
+  "baseline/model_card.json": "f3c10a095a375ab85f3c1f369ba205df2d4999edf516ec595f407aa719825845"
+}

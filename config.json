@@ -1,0 +1,5 @@
+{
+  "max_depth": 3,
+  "min_samples_leaf": 1,
+  "random_state": 42
+}
